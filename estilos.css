@@ -64,14 +64,14 @@ ul {
      background-size: cover;
      background-repeat: no-repeat;
      text-align: center;
-     padding: 100px;
+     padding-bottom: 100px;
  }
  .principal img{
     width: 300px;
-    margin-bottom: -50px;
+    margin-bottom: 5px;
  }
 .principal h1{
-    margin-bottom: -25px;
+    margin-bottom: 2px;
 }
 
 .principal-boton{
@@ -82,7 +82,7 @@ ul {
     border: none;
     font-size: 20px;
     cursor: pointer;
-    margin-top: 30px;
+    margin: 30px;
 }
  .somos{
      background-color: rgb(0, 255, 170);
